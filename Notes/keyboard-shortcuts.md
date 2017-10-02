@@ -9,7 +9,7 @@ Contents
 [Ribbon Menus](#ribbon-menus)  
 [Workbooks and Worksheets](#workbooks-and-worksheets)  
 [Formulas, Sorting and Filtering](#formulas-sorting-and-filtering)  
-[Navigation,Selection,Insert,Delete, Edit and Copy and Paste](##navigation,selection,insert,delete,-edit-and-copy-&-paste)    
+[Navigation, Selection, Insert, Delete, Edit and Copy and Paste](##navigation-selection-insert-delete-edit-and-copy-and-paste)    
 [Formatting](##formatting)  
 
  
@@ -166,7 +166,7 @@ Contents
 | Create names from row and column labels. | Ctrl+Shift+F3 |
 | Paste a defined name into a formula. | F3 |
   
-## Navigation,Selection,Insert,Delete, Edit and Copy & Paste	  
+## Navigation, Selection, Insert, Delete, Edit and Copy and Paste	  
 ### Navigation
 | Action | Keys |
 |---|---|
