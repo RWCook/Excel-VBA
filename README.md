@@ -1,3 +1,3 @@
 # Excel-VBA
 
-Library of useful Excel VBA subroutines and functions. 
+A collection of useful Excel VBA subroutines and functions; this will be added to over time. 
